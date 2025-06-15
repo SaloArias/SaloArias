@@ -29,8 +29,7 @@
 ✔ Busco realizar un adoble titulacion para engrandecer mi carrera principal<br>
 ✔ He trabajado en Latex para mejorar mis trabajos <br>
 ✔ Estoy dispuesta a enseñar y aprender ya que siempre hay algo nuevo que puede ser increible<br>
-✔ Preguntame cualquier cosa, buscaria como ayudarte😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Preguntame cualquier cosa, buscaria como ayudarte😉<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***He trabajado en:***
