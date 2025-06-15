@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <hr>
-<h1 align="center">Hola, mi nombre es Salome Arias<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hola, mi nombre es Salomé Arias<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h2 align="center"> Estudiante de Estadistica y Ciencias de la Computacion </h2>  
 
 <a href = "mailto: salomeariasmurcia@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
@@ -21,16 +21,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Mas...***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Más informacion...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
+✔ Mi enfoque es trabajo estadistico<br>
 ✔ Actualmente estoy aprendiendo **Java**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Estoy trabajando para aprender mas lenguajes y utilizar mas programas<br>
+✔ Busco realizar un adoble titulacion para engrandecer mi carrera principal<br>
+✔ He trabajado en Latex para mejorar mis trabajos <br>
+✔ Estoy dispuesta a enseñar y aprender ya que siempre hay algo nuevo que puede ser increible<br>
+✔ Preguntame cualquier cosa, buscaria como ayudarte😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
 
