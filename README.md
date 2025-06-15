@@ -27,7 +27,7 @@
 ✔ Actualmente estoy aprendiendo **Java**<br>
 ✔ Estoy trabajando para aprender mas lenguajes y utilizar mas programas<br>
 ✔ Busco realizar un adoble titulacion para engrandecer mi carrera principal<br>
-✔ He trabajado en Latex para mejorar mis trabajos <br>
+✔ He trabajado en Latex para mejorar esteticamente mis trabajos de matematicas <br>
 ✔ Estoy dispuesta a enseñar y aprender ya que siempre hay algo nuevo que puede ser increible<br>
 ✔ Preguntame cualquier cosa, buscaria como ayudarte😉<br><br><br><br>
  
@@ -85,6 +85,9 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
 </div>
 
 <hr>
