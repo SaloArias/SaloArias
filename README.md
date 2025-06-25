@@ -26,7 +26,7 @@
 ✔ Mi enfoque es trabajo estadistico<br>
 ✔ Actualmente estoy aprendiendo **Java**<br>
 ✔ Estoy trabajando para aprender mas lenguajes y utilizar mas programas<br>
-✔ Busco realizar un adoble titulacion para engrandecer mi carrera principal<br>
+✔ Busco realizar una doble titulacion para engrandecer mi carrera principal<br>
 ✔ He trabajado en Latex para mejorar esteticamente mis trabajos de matematicas <br>
 ✔ Estoy dispuesta a enseñar y aprender ya que siempre hay algo nuevo que puede ser increible<br>
 ✔ Preguntame cualquier cosa, buscaria como ayudarte😉<br><br><br><br>
